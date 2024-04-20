@@ -6,6 +6,8 @@ Soy Analista de Datos Junior y Bióloga con una fuerte pasión por la educación
 ## 🎓 Educación
 - **Bióloga** - [Universidad de Antioquia]
 - **Certificado en Análisis de Datos** - [MAKAIA]
+-**Certificado front-end developer**-[Oracle-One]
+
 
 ## 🎨 Pasiones
 Me encanta combinar mi amor por la biología con mi pasión por el dibujo naturalista. A través de mis ilustraciones, busco capturar la esencia y la belleza de la naturaleza y utilizar estas obras para educar y sensibilizar sobre la importancia de la conservación.
