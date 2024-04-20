@@ -1,4 +1,4 @@
-# Hola, soy [Tu Nombre]! 👋
+# Hola, soy Lina Marcela Muñoz Correa! 👋
 
 ## 👩‍💼 Quién soy
 Soy Analista de Datos Junior y Bióloga con una fuerte pasión por la educación y el dibujo naturalista. Me especializo en el análisis de grandes conjuntos de datos para descubrir patrones y proporcionar insights valiosos que ayuden a entender mejor los sistemas biológicos.
